@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Multivariate Calculus/1.2A Three-Dimensional Space.md",
+                "file": "Math/Calculus/Multivariate Calculus/1.2A Three-Dimensional Space (Shapes and Distance).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2A Three-Dimensional Space"
+              "title": "1.2A Three-Dimensional Space (Shapes and Distance)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space.md",
+                "file": "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2B Three-Dimensional Space"
+              "title": "1.2B Three-Dimensional Space (Parametrization)"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "6e0ed961257e483e",
   "lastOpenFiles": [
-    "Math/Calculus/Multivariate Calculus/1.2A Three-Dimensional Space.md",
-    "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space.md",
+    "Math/Calculus/Multivariate Calculus/1.2A Three-Dimensional Space (Shapes and Distance).md",
+    "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Math/Linear Algebra/1.3 Matrices.md",
     "Math/Intro Logic, Sets and Proofs/1.3 Set Operations.md",
     "Math/Calculus/Multivariate Calculus/1.1A Vectors in the Plane (Components of a Vector).md",
