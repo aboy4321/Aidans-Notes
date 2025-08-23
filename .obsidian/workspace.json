@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Multivariate Calculus/1.4 The Cross Product (2x2 and 3x3 matrix).md",
+                "file": "Math/Calculus/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 The Cross Product (2x2 and 3x3 matrix)"
+              "title": "1.4A The Cross Product (2x2 and 3x3 matrix)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "219844f480fa243e",
@@ -173,7 +172,7 @@
   "active": "c5e5e91c622c4120",
   "lastOpenFiles": [
     "Math/Calculus/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
-    "Math/Calculus/Multivariate Calculus/1.4 The Cross Product (2x2 and 3x3 matrix).md",
+    "Math/Calculus/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
     "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Computer Science/C++/C++ Function",
     "Computer Science/C++/C++ Function/Untitled.md",
