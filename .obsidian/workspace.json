@@ -11,10 +11,14 @@
             "id": "c5e5e91c622c4120",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Multivariate Calculus/1.4 The Cross Product.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.4 The Cross Product"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "219844f480fa243e",
@@ -165,8 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fba4dc1d751b2ac",
+  "active": "c5e5e91c622c4120",
   "lastOpenFiles": [
+    "Math/Calculus/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
+    "Math/Calculus/Multivariate Calculus/1.4 The Cross Product.md",
+    "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Computer Science/C++/C++ Function",
     "Computer Science/C++/C++ Function/Untitled.md",
     "Computer Science/C++/C++ Basics/6. Classes and Objects in C++.md",
@@ -177,9 +185,7 @@
     "Computer Science/C++/C++ Data Types & Fundamentals/8. Defining Integer Values in C++.md",
     "conflict-files-obsidian-git.md",
     "Math/Calculus/Multivariate Calculus/1.1A Vectors in the Plane (Components of a Vector).md",
-    "Math/Calculus/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
     "Math/Calculus/Multivariate Calculus/1.2A Three-Dimensional Space (Shapes and Distance).md",
-    "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Math/Linear Algebra/1.3 Matrices.md",
     "Math/Intro Logic, Sets and Proofs/1.3 Set Operations.md",
     "Math/Calculus/Ordinary Differential Equations/1.2 Application - Falling Objects.md",
@@ -202,7 +208,6 @@
     "Math/Calculus/Ordinary Differential Equations",
     "Books",
     "Computer Science/Networking",
-    "Schedule Builder App (Deepseek)",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
