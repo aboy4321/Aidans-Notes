@@ -1,4 +1,4 @@
-Tags: #cs #cpp  
+Tags: #cs 
 ### Overview
 
 ### Key Concepts
