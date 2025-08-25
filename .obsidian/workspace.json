@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/1.3B Dot Product and Angle Between Vectors.md",
+                "file": "Math/Calculus/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3B Dot Product and Angle Between Vectors"
+              "title": "1.3C Dot Product and Angle Between Vectors"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "06f29808a1af5e09",
   "lastOpenFiles": [
+    "Math/Calculus/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
+    "Math/Calculus/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
+    "Math/Calculus/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
     "Math/Calculus/Multivariate Calculus/1.3A Dot Product and Angle Between Vectors (Properties of Dot Product).md",
-    "Math/1.3B Dot Product and Angle Between Vectors.md",
     "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Math/Linear Algebra/1.4 Matrix Multiplication.md",
     "Math/Linear Algebra/1.3 Matrices.md",
@@ -207,7 +209,6 @@
     "Math/Calculus/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
     "Math/Calculus/Multivariate Calculus/1.1A Vectors in the Plane (Components of a Vector).md",
     "Math/Calculus/Multivariate Calculus/1.2A Three-Dimensional Space (Shapes and Distance).md",
-    "Math/Calculus/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Calculus/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
     "Math/Calculus/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
     "Math/Untitled 1.md",
@@ -224,7 +225,6 @@
     "Computer Science/C++/Static Members of a Class.md",
     "Computer Science/C++/C++ Basics/2. Functions in C++.md",
     "Computer Science/C++/C++ Basics/1. C++ Standard Library.md",
-    "Math/c.md",
     "Math/Untitled 2.base",
     "Math/Untitled 1.base",
     "Math/Untitled.base",
