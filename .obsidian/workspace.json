@@ -11,10 +11,14 @@
             "id": "b9bd7199e9f2f12b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math/Linear Algebra/1.3 Matrices.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.3 Matrices"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "b9bd7199e9f2f12b",
   "lastOpenFiles": [
+    "Math/Linear Algebra/1.2 Lengths and Angles from Dot Products.md",
     "Math/Linear Algebra/1.4 Matrix Multiplication.md",
     "Math/Untitled 1.md",
     "Math/Calculus/Ordinary Differential Equations/1.3.1 Exponential Functions.md",
@@ -204,7 +209,6 @@
     "Math/c.md",
     "Computer Science/C++/C++ Data Types & Fundamentals/8. Defining Integer Values in C++.md",
     "conflict-files-obsidian-git.md",
-    "Math/Calculus/Ordinary Differential Equations/1.2 Application - Falling Objects.md",
     "Math/Untitled 2.base",
     "Math/Untitled 1.base",
     "Math/Untitled.base",
