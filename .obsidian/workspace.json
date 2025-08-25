@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Intro Logic, Sets and Proofs/1.4 Indexed Collections of Sets.md",
+                "file": "Math/Intro Logic, Sets and Proofs/1.5 Partition of Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Indexed Collections of Sets"
+              "title": "1.5 Partition of Sets"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "219844f480fa243e",
@@ -183,10 +182,13 @@
   },
   "active": "06f29808a1af5e09",
   "lastOpenFiles": [
+    "Math/Calculus/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
+    "Math/Intro Logic, Sets and Proofs/1.5 Partition of Sets.md",
+    "Math/Calculus/Ordinary Differential Equations/1.1.1 Initial Value Problems.md",
+    "Math/Intro Logic, Sets and Proofs/1.4 Indexed Collections of Sets.md",
     "Math/Calculus/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
     "Math/Calculus/Multivariate Calculus/1.3A Dot Product and Angle Between Vectors (Properties of Dot Product).md",
     "Math/Calculus/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
-    "Math/Calculus/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Math/Linear Algebra/1.4 Matrix Multiplication.md",
     "Math/Linear Algebra/1.3 Matrices.md",
@@ -198,7 +200,6 @@
     "Math/Calculus/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
     "Math/Untitled 1.md",
     "Math/Calculus/Ordinary Differential Equations/1.3.1 Exponential Functions.md",
-    "Math/Intro Logic, Sets and Proofs/1.4 Indexed Collections of Sets.md",
     "Math/Calculus/Ordinary Differential Equations/1.2.2 Falling Object with Viscous Drag.md",
     "Math/Calculus/Ordinary Differential Equations/1.3 First Order Linear Differential Equations.md",
     "Computer-Science/Linear Layer.md",
@@ -208,8 +209,6 @@
     "Computer Science/C++/C++ Function/Untitled.md",
     "Computer Science/C++/C++ Basics/6. Classes and Objects in C++.md",
     "Computer Science/C++/Static Members of a Class.md",
-    "Computer Science/C++/C++ Basics/2. Functions in C++.md",
-    "Computer Science/C++/C++ Basics/1. C++ Standard Library.md",
     "Math/Untitled 2.base",
     "Math/Untitled 1.base",
     "Math/Untitled.base",
