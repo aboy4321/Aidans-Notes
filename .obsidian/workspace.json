@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
+                "file": "Math/Linear Algebra/1.4 Matrix Multiplication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1B Vectors in the Plane (Vector Algebra)"
+              "title": "1.4 Matrix Multiplication"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "b9bd7199e9f2f12b",
   "lastOpenFiles": [
-    "Math/Calculus/Multivariate Calculus/1.1A Vectors in the Plane (Components of a Vector).md",
     "Math/Calculus/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
+    "Math/Linear Algebra/1.4 Matrix Multiplication.md",
+    "Math/Calculus/Multivariate Calculus/1.1A Vectors in the Plane (Components of a Vector).md",
     "Math/Calculus/Multivariate Calculus/1.2A Three-Dimensional Space (Shapes and Distance).md",
     "Math/Calculus/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Math/Calculus/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
@@ -208,7 +209,6 @@
     "Computer Science/C++/C++ Basics/1. C++ Standard Library.md",
     "Math/c.md",
     "Computer Science/C++/C++ Data Types & Fundamentals/8. Defining Integer Values in C++.md",
-    "conflict-files-obsidian-git.md",
     "Math/Untitled 2.base",
     "Math/Untitled 1.base",
     "Math/Untitled.base",
