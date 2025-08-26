@@ -1,5 +1,0 @@
-Tags: #math 
-## Summary
-
-## Components
-
