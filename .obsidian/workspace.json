@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fd27ddecd3f9bf9f",
+        "id": "20780c7d9e218174",
         "type": "tabs",
         "children": [
           {
-            "id": "133eb41feb1d06eb",
+            "id": "832f818296e1c7a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Ordinary Differential Equations/1.4 Applications.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4 Applications"
-            }
-          },
-          {
-            "id": "260265c9403bda66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Ordinary Differential Equations/1.4.1  Savings Account.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4.1  Savings Account"
-            }
-          },
-          {
-            "id": "b13d7538ec061602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Ordinary Differential Equations/1.4.2 Carbon Dating.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.4.2 Carbon Dating"
-            }
-          },
-          {
-            "id": "95e14fec16d6d8e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Ordinary Differential Equations/1.1.1 Initial Value Problems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.1.1 Initial Value Problems"
-            }
-          },
-          {
-            "id": "10c9aa9e345a96c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,15 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95e14fec16d6d8e8",
+  "active": "832f818296e1c7a6",
   "lastOpenFiles": [
-    "Math/Ordinary Differential Equations/1.1 The Simplest First Order Differential Equations.md",
+    "Math/Untitled.md",
     "Math/Ordinary Differential Equations/1.4.3 Newton's Law of Cooling.md",
+    "Math/Ordinary Differential Equations/1.4.2 Carbon Dating.md",
+    "Math/Ordinary Differential Equations/1.2.2 Falling Object with Viscous Drag.md",
+    "Math/Ordinary Differential Equations/1.2.1 Falling Object With No Drag.md",
+    "Math/Linear Algebra/1.4 Matrix Multiplication.md",
+    "Math/Ordinary Differential Equations/1.1.1 Initial Value Problems.md",
+    "Math/Ordinary Differential Equations/1.1 The Simplest First Order Differential Equations.md",
     "Math/Ordinary Differential Equations/1.3.1 Exponential Functions.md",
     "Math/Ordinary Differential Equations/1.3 First Order Linear Differential Equations.md",
     "Math/Ordinary Differential Equations/1.4 Applications.md",
-    "Math/Untitled.md",
-    "Math/Ordinary Differential Equations/1.4.2 Carbon Dating.md",
     "Math/Ordinary Differential Equations/1.4.1  Savings Account.md",
     "Math/Untitled 3.base",
     "Math/Untitled.base",
@@ -253,7 +196,6 @@
     "Math/Untitled 1.base",
     "Math/Basics.md",
     "Math/Linear Algebra/2.1 Elimination and Back Substitution.md",
-    "Math/Linear Algebra/1.4 Matrix Multiplication.md",
     "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
     "Math/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
@@ -266,9 +208,6 @@
     "Computer-Science/Leetcode/Easy/Valid Anagram.md",
     "Computer-Science/Leetcode/Easy/Valid Palindrome.md",
     "Computer-Science/Leetcode/Easy/Untitled.md",
-    "Math/Multivariate Calculus/1.1A Vectors in the Plane (Components of a Vector).md",
-    "Math/Intro Logic, Sets and Proofs/1.2 Subsets.md",
-    "Math/Intro Logic, Sets and Proofs/2.1 Statements.md",
     "Computer Science/C++/C++ Function",
     "Math/Intro to Proofs/Untitled",
     "Math/Intro Logic, Sets and Proofs",
