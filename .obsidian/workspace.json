@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
+                "file": "Math/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4A The Cross Product (2x2 and 3x3 matrix)"
+              "title": "1.4B The Cross Product (Generally and Geometrically)"
             }
           },
           {
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 516.0086555480957
+    "width": 516.0086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "219844f480fa243e",
@@ -194,6 +195,9 @@
   },
   "active": "832f818296e1c7a6",
   "lastOpenFiles": [
+    "Math/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
+    "Math/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
+    "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
     "Math/Multivariate Calculus/1.3A Dot Product and Angle Between Vectors (Properties of Dot Product).md",
     "Math/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
@@ -213,9 +217,6 @@
     "Math/Linear Algebra/2.1 Elimination and Back Substitution.md",
     "Math/Linear Algebra/1.3 Matrices.md",
     "Math/Ordinary Differential Equations/1.4.2 Carbon Dating.md",
-    "Math/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
-    "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
-    "Math/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
     "Math/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Math/Multivariate Calculus/1.2A Three-Dimensional Space (Shapes and Distance).md",
     "Math/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
