@@ -16,8 +16,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "59754de45efcd668",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af46388bb6159455",
+  "active": "59754de45efcd668",
   "lastOpenFiles": [
+    "Math/Ordinary Differential Equations/1.4.1  Savings Account.md",
+    "Math/Ordinary Differential Equations/1.3.1 Exponential Functions.md",
+    "Math/Ordinary Differential Equations/1.2.2 Falling Object with Viscous Drag.md",
+    "Math/Ordinary Differential Equations/1.2 Application - Falling Objects.md",
+    "Math/Ordinary Differential Equations/1.1.1 Initial Value Problems.md",
+    "Templates/Simple Math Lecture Note.md",
     "Math/Multivariate Calculus/1.5 Planes in 3-Space.md",
     "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
@@ -194,16 +211,10 @@
     "Math/Intro Logic, Sets and Proofs/2.3 Disjunctions and Conjunctions.md",
     "Math/Intro Logic, Sets and Proofs/2.1 Statements.md",
     "Math/Multivariate Calculus/1.6 A Survey of Quadratics.md",
-    "Math/Ordinary Differential Equations/1.3.1 Exponential Functions.md",
     "Math/Ordinary Differential Equations/1.2.1 Falling Object With No Drag.md",
-    "Math/Ordinary Differential Equations/1.2 Application - Falling Objects.md",
-    "Math/Ordinary Differential Equations/1.1.1 Initial Value Problems.md",
     "Math/Ordinary Differential Equations/1.1 The Simplest First Order Differential Equations.md",
     "Math/Ordinary Differential Equations/1.4.2 Carbon Dating.md",
     "Math/Ordinary Differential Equations/1.4.3 Newton's Law of Cooling.md",
-    "Math/Ordinary Differential Equations/1.4.1  Savings Account.md",
-    "Math/Calculus/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
-    "Math/Ordinary Differential Equations/1.4 Applications.md",
     "Math/Ordinary Differential Equations",
     "Math/Multivariate Calculus",
     "Computer Science/C++/C++ Function",
