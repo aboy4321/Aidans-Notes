@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/DSA.md",
+                "file": "Math/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "1.3B Dot Product and Angle Between Vectors (Angles from Dot Product)"
             }
           },
           {
@@ -194,11 +194,14 @@
   },
   "active": "832f818296e1c7a6",
   "lastOpenFiles": [
+    "Math/Multivariate Calculus/1.3A Dot Product and Angle Between Vectors (Properties of Dot Product).md",
+    "Math/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
+    "Math/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
+    "Templates/DSA.md",
     "Templates/CS Concept Note.md",
     "Templates/Simple Math Lecture Note.md",
     "Templates/Programming Language (Conceptual Focus).md",
     "Templates/Long Math Lecture Note.md",
-    "Math/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
     "Math/Ordinary Differential Equations/1.4.3 Newton's Law of Cooling.md",
     "Math/Intro Logic, Sets and Proofs/1.3 Set Operations.md",
     "Math/Intro Logic, Sets and Proofs/1.4 Indexed Collections of Sets.md",
@@ -213,13 +216,10 @@
     "Math/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
     "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
-    "Math/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
-    "Math/Multivariate Calculus/1.3A Dot Product and Angle Between Vectors (Properties of Dot Product).md",
     "Math/Multivariate Calculus/1.2B Three-Dimensional Space (Parametrization).md",
     "Math/Multivariate Calculus/1.2A Three-Dimensional Space (Shapes and Distance).md",
     "Math/Multivariate Calculus/1.1B Vectors in the Plane (Vector Algebra).md",
     "Math/Multivariate Calculus/1.1A Vectors in the Plane (Components of a Vector).md",
-    "Math/Ordinary Differential Equations/1.1 The Simplest First Order Differential Equations.md",
     "Math/Untitled.base",
     "Math/Untitled 3.base",
     "Math/Untitled 2.base",
