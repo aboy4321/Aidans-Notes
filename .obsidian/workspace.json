@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
+                "file": "Math/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3B Dot Product and Angle Between Vectors (Angles from Dot Product)"
+              "title": "1.4A The Cross Product (2x2 and 3x3 matrix)"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "832f818296e1c7a6",
   "lastOpenFiles": [
-    "Math/Multivariate Calculus/1.3A Dot Product and Angle Between Vectors (Properties of Dot Product).md",
     "Math/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
+    "Math/Multivariate Calculus/1.3A Dot Product and Angle Between Vectors (Properties of Dot Product).md",
     "Math/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
     "Templates/DSA.md",
     "Templates/CS Concept Note.md",
