@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Ordinary Differential Equations/1.4.3 Newton's Law of Cooling.md",
+                "file": "Math/Multivariate Calculus/1.5 Planes in 3-Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4.3 Newton's Law of Cooling"
+              "title": "1.5 Planes in 3-Space"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "219844f480fa243e",
@@ -182,8 +183,10 @@
   },
   "active": "40f76d1251a363f1",
   "lastOpenFiles": [
-    "Math/Ordinary Differential Equations/1.4.2 Carbon Dating.md",
+    "Math/Multivariate Calculus/1.6 A Survey of Quadratics.md",
+    "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Ordinary Differential Equations/1.4.3 Newton's Law of Cooling.md",
+    "Math/Ordinary Differential Equations/1.4.2 Carbon Dating.md",
     "Math/Ordinary Differential Equations/1.4 Applications.md",
     "Math/Ordinary Differential Equations/1.3.1 Exponential Functions.md",
     "Math/Ordinary Differential Equations/1.3 First Order Linear Differential Equations.md",
@@ -203,11 +206,9 @@
     "Math/Intro Logic, Sets and Proofs/2.6 Biconditionals.md",
     "Templates/Simple Math Lecture Note.md",
     "Math/Multivariate Calculus/1.5 Planes in 3-Space.md",
-    "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Multivariate Calculus/1.4B The Cross Product (Generally and Geometrically).md",
     "Math/Multivariate Calculus/1.4A The Cross Product (2x2 and 3x3 matrix).md",
     "Math/Multivariate Calculus/1.3B Dot Product and Angle Between Vectors (Angles from Dot Product).md",
-    "Math/Multivariate Calculus/1.3C Dot Product and Angle Between Vectors.md",
     "Math/Ordinary Differential Equations",
     "Math/Multivariate Calculus",
     "Computer Science/C++/C++ Function",
