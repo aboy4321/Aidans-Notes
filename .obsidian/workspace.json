@@ -11,10 +11,14 @@
             "id": "e4d056a06c24aca2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math/Intro Logic, Sets and Proofs/2.10 Quantified Statements.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2.10 Quantified Statements"
             }
           }
         ]
@@ -179,8 +183,8 @@
   },
   "active": "e4d056a06c24aca2",
   "lastOpenFiles": [
+    "Math/Multivariate Calculus/1.5B Planes in 3-Space.md",
     "Math/Multivariate Calculus/1.5A Planes in 3-Space.md",
-    "Math/1.5B Planes in 3-Space.md",
     "Math/Multivariate Calculus/1.6 A Survey of Quadratics.md",
     "Math/Multivariate Calculus/1.4C The Cross Product (Properties of the Cross Product).md",
     "Math/Ordinary Differential Equations/1.4.3 Newton's Law of Cooling.md",
