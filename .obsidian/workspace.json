@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Multivariate Calculus/1.6A A Survey of Quadric Surfaces.md",
+                "file": "Math/Multivariate Calculus/1.6A A Survey of Quadric Surfaces (Ellipsoids and Hyperboloids).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6A A Survey of Quadric Surfaces"
+              "title": "1.6A A Survey of Quadric Surfaces (Ellipsoids and Hyperboloids)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Multivariate Calculus/1.6B A Survey of Quadric Surfaces.md",
+                "file": "Math/Multivariate Calculus/1.6B A Survey of Quadric Surfaces (Elliptic Cone and Paraboloids).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6B A Survey of Quadric Surfaces"
+              "title": "1.6B A Survey of Quadric Surfaces (Elliptic Cone and Paraboloids)"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Multivariate Calculus/1.6C A Survey of Quadric Surfaces.md",
+                "file": "Math/Multivariate Calculus/1.6C A Survey of Quadric Surfaces (Quadratic Cylinders).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6C A Survey of Quadric Surfaces"
+              "title": "1.6C A Survey of Quadric Surfaces (Quadratic Cylinders)"
             }
           }
         ],
@@ -197,8 +197,8 @@
   },
   "active": "5ab9edb37ad37598",
   "lastOpenFiles": [
-    "Math/Multivariate Calculus/1.6B A Survey of Quadric Surfaces.md",
-    "Math/Multivariate Calculus/1.6A A Survey of Quadric Surfaces.md",
-    "Math/Multivariate Calculus/1.6C A Survey of Quadric Surfaces.md"
+    "Math/Multivariate Calculus/1.6A A Survey of Quadric Surfaces (Ellipsoids and Hyperboloids).md",
+    "Math/Multivariate Calculus/1.6B A Survey of Quadric Surfaces (Elliptic Cone and Paraboloids).md",
+    "Math/Multivariate Calculus/1.6C A Survey of Quadric Surfaces (Quadratic Cylinders).md"
   ]
 }
